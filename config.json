@@ -1,0 +1,8 @@
+{
+    "prefix": "!",
+    "token": "YOUR_BOT_TOKEN",
+    "admin_id": "ADMIN_USER_ID",
+    "channel_id": "YOUR_CHANNEL_ID",
+    "openweathermap_api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+    "newsapi_api_key": "YOUR_NEWSAPI_API_KEY"
+}
